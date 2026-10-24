@@ -12,7 +12,8 @@ point it at.
 Each tool lives in its own folder under [`tools/`](tools/) with a README that explains what it does,
 how to run it and its limits.
 
-_The first tools are on the way._
+- [`withings_to_intervals`](tools/withings_to_intervals/): send your Withings weight, body fat and
+  blood pressure export to intervals.icu (or a clean CSV) without Withings+.
 
 ## How to run a tool
 
